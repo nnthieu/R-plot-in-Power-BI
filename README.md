@@ -4,7 +4,7 @@ The reason for this is that if I want to display beautiful R plots, such as ggpl
 
 In R script in Power BI, i have to write a complet R codes in RStudio then copy and paste in Power BI ro run them.
 EX: 
-# R script in R script editor:
+### R script in R script editor:
 
 library(ggplot2)
 library(readr)
