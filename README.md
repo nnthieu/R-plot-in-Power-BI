@@ -19,7 +19,6 @@ ggplot(data = hosbeds) +
   theme_minimal() +  
   labs(title = "Distribution of Beds by Type",
        x = "Hospital Type",
-       y = "Number of Beds",
-       fill = "Hospital Type") +  
+       y = "Number of Beds") +  
   theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 14)) 
 
